@@ -1,4 +1,4 @@
-# Iconcile Assignment – Hotel Booking Platform
+#  Hotel Booking Platform
 
 A fully responsive and interactive hotel booking interface built using React.js and Tailwind CSS as part of the Iconcile screening assignment. It allows users to browse hotels, view details, make bookings, and get personalized recommendations based on their interactions.
 
